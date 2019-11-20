@@ -1,4 +1,4 @@
-package exercises_CodeWars;
+package exercises.codewars;
 
 public class DivisibleByXandY {
 
