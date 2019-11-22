@@ -69,5 +69,7 @@ public class Keypad {
 
 		return result;
 	}
-
+public static void main(String[] args) {
+	
+}
 }
